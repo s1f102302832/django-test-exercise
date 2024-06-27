@@ -1,0 +1,5 @@
+venv/
+__pycacha__/
+*.pyc
+*/log
+db.sqlite3
